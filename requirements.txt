@@ -2,4 +2,4 @@ yt-dlp
 colorama
 readchar
 # Optional: desktop notifications on Windows
-# plyer
+# 

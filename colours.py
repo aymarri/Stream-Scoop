@@ -40,3 +40,4 @@ def get_next_colour():
 
     last_used_colour = random.choice(available)
     return last_used_colour
+##

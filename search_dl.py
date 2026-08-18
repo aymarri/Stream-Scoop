@@ -7,7 +7,7 @@ to find videos without leaving the app.
 Features:
   - Search YouTube / SoundCloud / other supported platforms
   - View search results with title, uploader, duration, views
-  - Pick one or multiple results to download
+  - Pick one or multiple results to download#
   - Queue search results for concurrent download
   - Show video card before downloading
 """

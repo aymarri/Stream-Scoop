@@ -6,7 +6,7 @@ Additions over original:
   - Proxy support helpers
   - Better unique_filename (avoids yt-dlp template conflicts)
   - _fmt_speed helper
-  - Enhanced error messages
+  - Enhanced error messages#
 """
 
 import os

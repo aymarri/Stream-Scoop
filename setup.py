@@ -3,7 +3,7 @@ setup.py — Optional pip-installable entry point.
 
 Usage:
   pip install -e .          # installs as 'streamscoop' command
-  streamscoop               # launch from anywhere
+  streamscoop               # launch from anywhere'
 """
 
 from setuptools import setup, find_packages

@@ -12,7 +12,7 @@ New settings added:
   - sleep_interval      Seconds to wait between downloads (avoid rate limits)
   - trim_silence        Trim leading/trailing silence from audio
   - write_thumbnail     Save thumbnail as separate image file
-  - preferred_lang      Preferred audio language code (e.g. 'en')
+  - preferred_lang      Preferred audio language code (e.g. 'en')##
 """
 
 import json

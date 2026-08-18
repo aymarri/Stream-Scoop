@@ -27,7 +27,7 @@ python main.py
 
 | Tool | Required | Notes |
 |------|----------|-------|
-| Python 3.9+ | ✅ Yes | |
+| Python 3.9+ | ✅ Yes  |
 | FFmpeg | ✅ Yes | For merging video+audio |
 | aria2c | Optional | Faster multi-part downloads |
 | ffprobe | Optional | From the ffmpeg suite |

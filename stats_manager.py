@@ -7,7 +7,7 @@ Features:
   - Most downloaded domains
   - Estimated total storage used (from log)
   - Streak tracking (days with at least one download)
-  - Export stats to CSV
+  - Export stats to CSV#
 """
 
 import os

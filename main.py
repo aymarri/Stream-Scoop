@@ -19,7 +19,7 @@ Menu:
   11 Archive Manager
   12 Download Statistics
   13 View Download History
-  14 Settings
+  14 Settings##
   q  Quit
 """
 

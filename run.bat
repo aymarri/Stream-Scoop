@@ -4,7 +4,7 @@ title Stream Scoop
 
 :: ─────────────────────────────────────────────────────────────────
 ::  Stream Scoop launcher - run.bat
-::  Window stays open on ANY error so you can always read what went wrong.
+::    Window stays open on ANY error so you can always read what went wrong.
 :: ─────────────────────────────────────────────────────────────────
 
 :: Strip trailing backslash from %~dp0 so paths don't double-up

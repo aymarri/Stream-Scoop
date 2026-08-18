@@ -6,7 +6,7 @@ Features:
   - Pick from multiple thumbnail sizes
   - Batch thumbnail downloading
   - Convert to different image formats (jpg, png, webp)
-"""
+"""#
 
 import os
 import urllib.request

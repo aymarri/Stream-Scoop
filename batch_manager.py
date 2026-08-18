@@ -8,7 +8,7 @@ Features:
   - Resume a previously saved queue
   - Download all imported URLs with a chosen mode
   - Per-URL mode or uniform mode for all
-  - Progress tracking and summary
+  - Progress tracking and summary#
 """
 
 import json

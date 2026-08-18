@@ -2,7 +2,7 @@
 format_inspector.py — Inspect all available formats for any URL.
 
 Shows a detailed table of every video/audio format yt-dlp can see,
-with codec, resolution, bitrate, filesize, and format ID.
+with codec, resolution, bitrate, filesize, and format ID.##
 No downloading happens.
 """
 

@@ -11,7 +11,7 @@ Features:
   - Strip audio from video (mute)
   - Merge separate video + audio files
   - Change playback speed
-  - Simple noise reduction (via ffmpeg's afftdn filter)
+  - Simple noise reduction (via ffmpeg's afftdn filter)##
   - Progress display
 """
 

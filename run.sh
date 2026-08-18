@@ -3,7 +3,7 @@
 #  Stream Scoop launcher — run.sh
 #
 #  Works on macOS and Linux.
-#  Creates a virtualenv on first run, installs deps, then launches.
+#    Creates a virtualenv on first run, installs deps, then launches.
 # ─────────────────────────────────────────────────────────────────
 
 set -e

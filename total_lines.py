@@ -5,7 +5,7 @@ from rich.panel import Panel
 from rich import box
 
 """The purpose of this file is to just calculate the total number of lines of code in the project, excluding certain files and directories.
-It uses the 'rich' library to display the results in a visually appealing way."""
+It uses the 'rich' library to display the results in a visually appealing way."""#
 
 
 def count_lines():

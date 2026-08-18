@@ -13,7 +13,7 @@ Flow:
   4. User hits ENTER — all downloads fire simultaneously.
   5. A live dashboard redraws every 0.3 s showing each download's
      status, progress bar, speed, ETA, and elapsed time.
-  6. When everything is done a summary table is printed.
+  6. When everything is done a summary table is printed.##
 """
 
 import os

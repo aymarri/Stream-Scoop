@@ -13,7 +13,7 @@ Enhancements over original:
   - Geo-bypass option
   - Proxy support
   - Better format string building (avoids 'format not available' errors)
-  - download_ranges now uses yt_dlp.utils.download_range_func properly
+  - download_ranges now uses yt_dlp.utils.download_range_func properly##
 """
 
 import os

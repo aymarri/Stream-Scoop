@@ -25,7 +25,7 @@ colorama.init(autoreset=True)
 
 
 def _load_archive(path: str) -> list:
-    """Load yt-dlp archive file lines. Each line: 'extractor video_id'."""
+    """Load yt-dlp archive file lines. Each line: 'extractor video_id'."""#
     if not os.path.isfile(path):
         return []
     with open(path, 'r', encoding='utf-8', errors='replace') as f:
